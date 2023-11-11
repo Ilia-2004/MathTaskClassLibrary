@@ -1,0 +1,6 @@
+F:\Ilya\Programming\MathTaskClassLibrary1\MathTaskClassLibrary1\bin\Debug\MathTaskClassLibrary1.dll
+F:\Ilya\Programming\MathTaskClassLibrary1\MathTaskClassLibrary1\bin\Debug\MathTaskClassLibrary1.pdb
+F:\Ilya\Programming\MathTaskClassLibrary1\MathTaskClassLibrary1\obj\Debug\MathTaskClassLibrary1.csproj.AssemblyReference.cache
+F:\Ilya\Programming\MathTaskClassLibrary1\MathTaskClassLibrary1\obj\Debug\MathTaskClassLibrary1.csproj.CoreCompileInputs.cache
+F:\Ilya\Programming\MathTaskClassLibrary1\MathTaskClassLibrary1\obj\Debug\MathTaskClassLibrary1.dll
+F:\Ilya\Programming\MathTaskClassLibrary1\MathTaskClassLibrary1\obj\Debug\MathTaskClassLibrary1.pdb
